@@ -1,0 +1,3 @@
+displayName = Tims Mod
+author = Ensaymada
+version = 0.11

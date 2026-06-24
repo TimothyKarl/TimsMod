@@ -1,0 +1,12 @@
+C:\Users\timot\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimsMod\bin\Debug\net8.0\TimsMod.deps.json
+C:\Users\timot\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimsMod\bin\Debug\net8.0\TimsMod.dll
+C:\Users\timot\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimsMod\bin\Debug\net8.0\TimsMod.pdb
+C:\Users\timot\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimsMod\obj\Debug\net8.0\TimsMod.csproj.AssemblyReference.cache
+C:\Users\timot\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimsMod\obj\Debug\net8.0\TimsMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timot\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimsMod\obj\Debug\net8.0\TimsMod.AssemblyInfoInputs.cache
+C:\Users\timot\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimsMod\obj\Debug\net8.0\TimsMod.AssemblyInfo.cs
+C:\Users\timot\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimsMod\obj\Debug\net8.0\TimsMod.csproj.CoreCompileInputs.cache
+C:\Users\timot\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimsMod\obj\Debug\net8.0\TimsMod.dll
+C:\Users\timot\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimsMod\obj\Debug\net8.0\refint\TimsMod.dll
+C:\Users\timot\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimsMod\obj\Debug\net8.0\TimsMod.pdb
+C:\Users\timot\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimsMod\obj\Debug\net8.0\ref\TimsMod.dll

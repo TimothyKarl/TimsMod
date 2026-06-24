@@ -1,0 +1,37 @@
+Items: {
+	FirstSword: {
+		DisplayName: First Sword
+		Tooltip: ""
+	}
+
+	Timothy: {
+		DisplayName: Timothy
+		Tooltip: ""
+	}
+
+	Cadet: {
+		DisplayName: Cadet
+		Tooltip: ""
+	}
+
+	NotNyzToday: {
+		DisplayName: Not Nyz Today
+		Tooltip: ""
+	}
+
+	GrayAsAZell: {
+		DisplayName: Gray As A Zell
+		Tooltip: ""
+	}
+
+	YoJohann: {
+		DisplayName: Yo Johann
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	GrayAsAZellProjectile.DisplayName: Gray As A Zell Projectile
+	YoJohannProjectile.DisplayName: Yo Johann Projectile
+	TimothyProjectile.DisplayName: Timothy Projectile
+}
